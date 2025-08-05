@@ -51,9 +51,9 @@
     "id" : "d877e4d0-720e-11f0-a73f-89c731a76f6a",
     "otaPackageId" : {
       "entityType" : "OTA_PACKAGE",
-      "id" : "173b0d60-720e-11f0-a73f-89c731a76f6a"
+      "id" : "489a3c00-0fda-11f0-aa88-d1163531d2cd"
     },
     "otaPackageType" : "FIRMWARE",
-    "otaPackageUpdateTime" : 1754406853522
+    "otaPackageUpdateTime" : 1754406898594
   } ]
 }
