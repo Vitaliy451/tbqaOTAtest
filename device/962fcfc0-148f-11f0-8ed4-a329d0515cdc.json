@@ -20,22 +20,22 @@
     },
     "deviceProfileId" : {
       "entityType" : "DEVICE_PROFILE",
-      "id" : "3bdfcf30-720d-11f0-a73f-89c731a76f6a"
+      "id" : "6f2f1200-148f-11f0-bbcb-9172d691de23"
     },
     "externalId" : null,
     "firmwareId" : null,
     "id" : {
       "entityType" : "DEVICE",
-      "id" : "8000a580-720e-11f0-ac61-29697677d32f"
+      "id" : "962fcfc0-148f-11f0-8ed4-a329d0515cdc"
     },
     "label" : "",
-    "name" : "OTA device",
+    "name" : "New Device 2",
     "ownerId" : null,
     "softwareId" : null,
-    "type" : "OTAfirmware profile"
+    "type" : "OTA Device profile"
   },
   "credentials" : {
-    "credentialsId" : "FyIrFskugVsu9jSlSv9H",
+    "credentialsId" : "011KFH6NQ4OH0ei2bHko",
     "credentialsType" : "ACCESS_TOKEN",
     "credentialsValue" : null
   },
@@ -46,7 +46,7 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "active",
-      "lastUpdateTs" : 1754406705327,
+      "lastUpdateTs" : 1744127341928,
       "longValue" : null,
       "strValue" : null
     }, {
@@ -54,24 +54,32 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "fw_id",
-      "lastUpdateTs" : 1754406929375,
+      "lastUpdateTs" : 1749813037974,
       "longValue" : null,
-      "strValue" : "173b0d60-720e-11f0-a73f-89c731a76f6a"
+      "strValue" : "a4d70840-148f-11f0-ab28-21090e740746"
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "inactivityAlarmTime",
+      "lastUpdateTs" : 1744127341928,
+      "longValue" : 1744127341916,
+      "strValue" : null
     } ],
     "SHARED_SCOPE" : [ {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "fw_checksum",
-      "lastUpdateTs" : 1754406929375,
+      "lastUpdateTs" : 1749813037974,
       "longValue" : null,
-      "strValue" : "9bf425ed03f8c29cdbd1017730042052c6e993f05aaeea86bcca00bc4f41818b"
+      "strValue" : "64864e35edf75a7c098b241f599463c5443663de9c782a826a608c498700d2f2"
     }, {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "fw_checksum_algorithm",
-      "lastUpdateTs" : 1754406929375,
+      "lastUpdateTs" : 1749813037974,
       "longValue" : null,
       "strValue" : "SHA256"
     }, {
@@ -79,33 +87,33 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "fw_size",
-      "lastUpdateTs" : 1754406929375,
-      "longValue" : 591,
+      "lastUpdateTs" : 1749813037974,
+      "longValue" : 5911,
       "strValue" : null
     }, {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "fw_tag",
-      "lastUpdateTs" : 1754406929375,
+      "lastUpdateTs" : 1749813037974,
       "longValue" : null,
-      "strValue" : "OTAfirmware 1.2"
+      "strValue" : "Vitaliy OTA test 1.0"
     }, {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "fw_title",
-      "lastUpdateTs" : 1754406929375,
+      "lastUpdateTs" : 1749813037974,
       "longValue" : null,
-      "strValue" : "OTAfirmware"
+      "strValue" : "Vitaliy OTA test"
     }, {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "fw_version",
-      "lastUpdateTs" : 1754406929375,
+      "lastUpdateTs" : 1749813037974,
       "longValue" : null,
-      "strValue" : "1.2"
+      "strValue" : "1.0"
     } ]
   },
   "calculatedFields" : [ ]

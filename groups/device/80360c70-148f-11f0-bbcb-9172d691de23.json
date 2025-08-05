@@ -30,9 +30,9 @@
     "groupAll" : false,
     "id" : {
       "entityType" : "ENTITY_GROUP",
-      "id" : "540f1ab0-720e-11f0-b64d-d14ee6f25f42"
+      "id" : "80360c70-148f-11f0-bbcb-9172d691de23"
     },
-    "name" : "OTA Group",
+    "name" : "OTA Device group",
     "ownerId" : {
       "entityType" : "TENANT",
       "id" : "14095ef0-fdae-11ef-bca0-9d823f5ae12e"
@@ -48,14 +48,14 @@
   "groupOtaPackages" : [ {
     "groupId" : {
       "entityType" : "ENTITY_GROUP",
-      "id" : "540f1ab0-720e-11f0-b64d-d14ee6f25f42"
+      "id" : "80360c70-148f-11f0-bbcb-9172d691de23"
     },
-    "id" : "d877e4d0-720e-11f0-a73f-89c731a76f6a",
+    "id" : "0903fea0-4847-11f0-9cdf-bd487461effd",
     "otaPackageId" : {
       "entityType" : "OTA_PACKAGE",
-      "id" : "173b0d60-720e-11f0-a73f-89c731a76f6a"
+      "id" : "a4d70840-148f-11f0-ab28-21090e740746"
     },
     "otaPackageType" : "FIRMWARE",
-    "otaPackageUpdateTime" : 1754406929293
+    "otaPackageUpdateTime" : 1749813037921
   } ]
 }

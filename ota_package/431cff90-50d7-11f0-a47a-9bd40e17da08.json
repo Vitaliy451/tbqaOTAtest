@@ -1,0 +1,30 @@
+{
+  "entityType" : "OTA_PACKAGE",
+  "entity" : {
+    "additionalInfo" : {
+      "description" : ""
+    },
+    "checksum" : null,
+    "checksumAlgorithm" : null,
+    "contentType" : null,
+    "data" : null,
+    "dataSize" : null,
+    "deviceProfileId" : {
+      "entityType" : "DEVICE_PROFILE",
+      "id" : "e8ab96e0-0638-11f0-935e-abb9314f9acd"
+    },
+    "externalId" : null,
+    "fileName" : null,
+    "hasData" : false,
+    "id" : {
+      "entityType" : "OTA_PACKAGE",
+      "id" : "431cff90-50d7-11f0-a47a-9bd40e17da08"
+    },
+    "name" : "test2",
+    "tag" : "test2 test2",
+    "title" : "test2",
+    "type" : "FIRMWARE",
+    "url" : "https://github.com/Vitaliy451/ceTest.git",
+    "version" : "test2"
+  }
+}

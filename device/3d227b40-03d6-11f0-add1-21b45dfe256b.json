@@ -1,11 +1,7 @@
 {
   "entityType" : "DEVICE",
   "entity" : {
-    "additionalInfo" : {
-      "gateway" : false,
-      "overwriteActivityTime" : false,
-      "description" : ""
-    },
+    "additionalInfo" : null,
     "customerId" : {
       "entityType" : "CUSTOMER",
       "id" : "13814000-1dd2-11b2-8080-808080808080"
@@ -20,22 +16,22 @@
     },
     "deviceProfileId" : {
       "entityType" : "DEVICE_PROFILE",
-      "id" : "3bdfcf30-720d-11f0-a73f-89c731a76f6a"
+      "id" : "3c74af10-03d6-11f0-add1-21b45dfe256b"
     },
     "externalId" : null,
     "firmwareId" : null,
     "id" : {
       "entityType" : "DEVICE",
-      "id" : "8000a580-720e-11f0-ac61-29697677d32f"
+      "id" : "3d227b40-03d6-11f0-add1-21b45dfe256b"
     },
     "label" : "",
-    "name" : "OTA device",
+    "name" : "389021001264",
     "ownerId" : null,
     "softwareId" : null,
-    "type" : "OTAfirmware profile"
+    "type" : "Waste Sensor"
   },
   "credentials" : {
-    "credentialsId" : "FyIrFskugVsu9jSlSv9H",
+    "credentialsId" : "5TDrmEdliHZMh0slk0P2",
     "credentialsType" : "ACCESS_TOKEN",
     "credentialsValue" : null
   },
@@ -46,67 +42,67 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "active",
-      "lastUpdateTs" : 1754406705327,
+      "lastUpdateTs" : 1742302348207,
       "longValue" : null,
       "strValue" : null
     }, {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
-      "key" : "fw_id",
-      "lastUpdateTs" : 1754406929375,
+      "key" : "address",
+      "lastUpdateTs" : 1742287913258,
       "longValue" : null,
-      "strValue" : "173b0d60-720e-11f0-a73f-89c731a76f6a"
+      "strValue" : "Sepulveda Blvd, 1700"
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "inactivityAlarmTime",
+      "lastUpdateTs" : 1742302348207,
+      "longValue" : 1742302348191,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "inactivityTimeout",
+      "lastUpdateTs" : 1742287913258,
+      "longValue" : 14400000,
+      "strValue" : null
+    }, {
+      "booleanValue" : false,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "isFull",
+      "lastUpdateTs" : 1742287913258,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : false,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "isLowBattery",
+      "lastUpdateTs" : 1742287913258,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : 33.8905202,
+      "jsonValue" : null,
+      "key" : "latitude",
+      "lastUpdateTs" : 1742287913258,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : -118.394159,
+      "jsonValue" : null,
+      "key" : "longitude",
+      "lastUpdateTs" : 1742287913258,
+      "longValue" : null,
+      "strValue" : null
     } ],
-    "SHARED_SCOPE" : [ {
-      "booleanValue" : null,
-      "doubleValue" : null,
-      "jsonValue" : null,
-      "key" : "fw_checksum",
-      "lastUpdateTs" : 1754406929375,
-      "longValue" : null,
-      "strValue" : "9bf425ed03f8c29cdbd1017730042052c6e993f05aaeea86bcca00bc4f41818b"
-    }, {
-      "booleanValue" : null,
-      "doubleValue" : null,
-      "jsonValue" : null,
-      "key" : "fw_checksum_algorithm",
-      "lastUpdateTs" : 1754406929375,
-      "longValue" : null,
-      "strValue" : "SHA256"
-    }, {
-      "booleanValue" : null,
-      "doubleValue" : null,
-      "jsonValue" : null,
-      "key" : "fw_size",
-      "lastUpdateTs" : 1754406929375,
-      "longValue" : 591,
-      "strValue" : null
-    }, {
-      "booleanValue" : null,
-      "doubleValue" : null,
-      "jsonValue" : null,
-      "key" : "fw_tag",
-      "lastUpdateTs" : 1754406929375,
-      "longValue" : null,
-      "strValue" : "OTAfirmware 1.2"
-    }, {
-      "booleanValue" : null,
-      "doubleValue" : null,
-      "jsonValue" : null,
-      "key" : "fw_title",
-      "lastUpdateTs" : 1754406929375,
-      "longValue" : null,
-      "strValue" : "OTAfirmware"
-    }, {
-      "booleanValue" : null,
-      "doubleValue" : null,
-      "jsonValue" : null,
-      "key" : "fw_version",
-      "lastUpdateTs" : 1754406929375,
-      "longValue" : null,
-      "strValue" : "1.2"
-    } ]
+    "SHARED_SCOPE" : [ ]
   },
   "calculatedFields" : [ ]
 }

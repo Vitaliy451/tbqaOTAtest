@@ -1,0 +1,30 @@
+{
+  "entityType" : "OTA_PACKAGE",
+  "entity" : {
+    "additionalInfo" : {
+      "description" : ""
+    },
+    "checksum" : null,
+    "checksumAlgorithm" : null,
+    "contentType" : null,
+    "data" : null,
+    "dataSize" : null,
+    "deviceProfileId" : {
+      "entityType" : "DEVICE_PROFILE",
+      "id" : "e6edd920-03fa-11f0-9a64-25c6dfbee102"
+    },
+    "externalId" : null,
+    "fileName" : null,
+    "hasData" : false,
+    "id" : {
+      "entityType" : "OTA_PACKAGE",
+      "id" : "16a8fe50-50d7-11f0-a47a-9bd40e17da08"
+    },
+    "name" : "test",
+    "tag" : "test test",
+    "title" : "test",
+    "type" : "FIRMWARE",
+    "url" : "https://github.com/Vitaliy451/example.git",
+    "version" : "test"
+  }
+}

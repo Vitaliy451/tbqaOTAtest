@@ -1,0 +1,30 @@
+{
+  "entityType" : "OTA_PACKAGE",
+  "entity" : {
+    "additionalInfo" : {
+      "description" : "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\""
+    },
+    "checksum" : "9bf425ed03f8c29cdbd1017730042052c6e993f05aaeea86bcca00bc4f41818b",
+    "checksumAlgorithm" : "SHA256",
+    "contentType" : "application/json",
+    "data" : "ewogICJ0aGluZ3Nib2FyZEFwaUVuZHBvaW50IjogImh0dHBzOi8vY2UudGJxYS5jbG91ZCIsCiAgImFwcExpbmtzVXJsSG9zdCI6ICJjZS50YnFhLmNsb3VkIiwKICAiYXBwTGlua3NVcmxTY2hlbWUiOiAiaHR0cHMiLAogICJhbmRyb2lkQXBwbGljYXRpb25JZCI6ICJteS5jZS5hbmRyb2lkLmFwcCIsCiAgImFuZHJvaWRBcHBsaWNhdGlvbk5hbWUiOiAiY2VUQiIsCiAgInRoaW5nc2JvYXJkT0F1dGgyQ2FsbGJhY2tVcmxTY2hlbWUiOiAibXkuY2UuYW5kcm9pZC5hcHAuYXV0aCIsCiAgInRoaW5nc2JvYXJkQW5kcm9pZEFwcFNlY3JldCI6ICJTMGhuYVZSWU9UVmlUMFJWT1VkQ1lsQjVlVms0YlhWR1ZUWkxPVmxtZW5aamNXcDJaRUpsUmtWSmVYazBUWEJGZHpKbGJUZzBRMDlGWVVwblNHNUdkUT09IiwKICAiaW9zQXBwbGljYXRpb25JZCI6ICJteS5jZS5pb3MuYXBwIiwKICAiaW9zQXBwbGljYXRpb25OYW1lIjogImNlVEIiLAogICJ0aGluZ3Nib2FyZElvc0FwcFNlY3JldCI6ICJNWEo1YUZaMk5IcDZZMnM1Y2pSNk5tb3pZVlJIWXpOaVZrUkxOMHMzWTJzNVZVeEhhV3RGUzNZMldsRmtNa05ZY2pWRFZETnhPRmwyUXpGRlVIbzNiQT09Igp9",
+    "dataSize" : 591,
+    "deviceProfileId" : {
+      "entityType" : "DEVICE_PROFILE",
+      "id" : "3bdfcf30-720d-11f0-a73f-89c731a76f6a"
+    },
+    "externalId" : null,
+    "fileName" : "configs (2).json",
+    "hasData" : true,
+    "id" : {
+      "entityType" : "OTA_PACKAGE",
+      "id" : "173b0d60-720e-11f0-a73f-89c731a76f6a"
+    },
+    "name" : "OTAfirmware",
+    "tag" : "OTAfirmware 1.2",
+    "title" : "OTAfirmware",
+    "type" : "FIRMWARE",
+    "url" : null,
+    "version" : "1.2"
+  }
+}

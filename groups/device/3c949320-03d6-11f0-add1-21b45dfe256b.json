@@ -1,9 +1,7 @@
 {
   "entityType" : "ENTITY_GROUP",
   "entity" : {
-    "additionalInfo" : {
-      "description" : ""
-    },
+    "additionalInfo" : null,
     "configuration" : {
       "columns" : [ {
         "type" : "ENTITY_FIELD",
@@ -30,9 +28,9 @@
     "groupAll" : false,
     "id" : {
       "entityType" : "ENTITY_GROUP",
-      "id" : "540f1ab0-720e-11f0-b64d-d14ee6f25f42"
+      "id" : "3c949320-03d6-11f0-add1-21b45dfe256b"
     },
-    "name" : "OTA Group",
+    "name" : "Waste Sensors",
     "ownerId" : {
       "entityType" : "TENANT",
       "id" : "14095ef0-fdae-11ef-bca0-9d823f5ae12e"
@@ -44,18 +42,5 @@
     "SERVER_SCOPE" : [ ]
   },
   "calculatedFields" : [ ],
-  "groupEntities" : true,
-  "groupOtaPackages" : [ {
-    "groupId" : {
-      "entityType" : "ENTITY_GROUP",
-      "id" : "540f1ab0-720e-11f0-b64d-d14ee6f25f42"
-    },
-    "id" : "d877e4d0-720e-11f0-a73f-89c731a76f6a",
-    "otaPackageId" : {
-      "entityType" : "OTA_PACKAGE",
-      "id" : "173b0d60-720e-11f0-a73f-89c731a76f6a"
-    },
-    "otaPackageType" : "FIRMWARE",
-    "otaPackageUpdateTime" : 1754406929293
-  } ]
+  "groupEntities" : true
 }
