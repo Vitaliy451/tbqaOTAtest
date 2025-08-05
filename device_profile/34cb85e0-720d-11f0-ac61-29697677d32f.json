@@ -13,7 +13,7 @@
       "entityType" : "DEVICE_PROFILE",
       "id" : "34cb85e0-720d-11f0-ac61-29697677d32f"
     },
-    "image" : null,
+    "image" : "tb-image;/api/images/tenant/gamepad-controller_(1).svg",
     "name" : "OTAsoftware profile",
     "profileData" : {
       "alarms" : null,
@@ -30,7 +30,10 @@
     },
     "provisionDeviceKey" : null,
     "provisionType" : "DISABLED",
-    "softwareId" : null,
+    "softwareId" : {
+      "entityType" : "OTA_PACKAGE",
+      "id" : "d11ac820-720d-11f0-b64d-d14ee6f25f42"
+    },
     "transportType" : "DEFAULT",
     "type" : "DEFAULT"
   },

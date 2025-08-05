@@ -53,12 +53,68 @@
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
+      "key" : "fw_id",
+      "lastUpdateTs" : 1754408989347,
+      "longValue" : null,
+      "strValue" : "173b0d60-720e-11f0-a73f-89c731a76f6a"
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
       "key" : "inactivityAlarmTime",
       "lastUpdateTs" : 1754406875708,
       "longValue" : 1754406875706,
       "strValue" : null
     } ],
-    "SHARED_SCOPE" : [ ]
+    "SHARED_SCOPE" : [ {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "fw_checksum",
+      "lastUpdateTs" : 1754408989347,
+      "longValue" : null,
+      "strValue" : "9bf425ed03f8c29cdbd1017730042052c6e993f05aaeea86bcca00bc4f41818b"
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "fw_checksum_algorithm",
+      "lastUpdateTs" : 1754408989347,
+      "longValue" : null,
+      "strValue" : "SHA256"
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "fw_size",
+      "lastUpdateTs" : 1754408989347,
+      "longValue" : 591,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "fw_tag",
+      "lastUpdateTs" : 1754408989347,
+      "longValue" : null,
+      "strValue" : "OTAfirmware 1.2"
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "fw_title",
+      "lastUpdateTs" : 1754408989347,
+      "longValue" : null,
+      "strValue" : "OTAfirmware"
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "fw_version",
+      "lastUpdateTs" : 1754408989347,
+      "longValue" : null,
+      "strValue" : "1.2"
+    } ]
   },
   "calculatedFields" : [ ]
 }

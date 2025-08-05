@@ -8,16 +8,13 @@
     "defaultRuleChainId" : null,
     "description" : "",
     "externalId" : null,
-    "firmwareId" : {
-      "entityType" : "OTA_PACKAGE",
-      "id" : "173b0d60-720e-11f0-a73f-89c731a76f6a"
-    },
+    "firmwareId" : null,
     "id" : {
       "entityType" : "DEVICE_PROFILE",
-      "id" : "3bdfcf30-720d-11f0-a73f-89c731a76f6a"
+      "id" : "3bfa69d0-7212-11f0-9f25-b53985b6f51e"
     },
-    "image" : "tb-image;/api/images/tenant/white_labeling_website_icon.png",
-    "name" : "OTAfirmware profile",
+    "image" : null,
+    "name" : "Test123",
     "profileData" : {
       "alarms" : null,
       "configuration" : {
